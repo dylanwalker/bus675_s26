@@ -25,7 +25,7 @@ First, you need a GitHub account, so make one if you don't already have one. Als
 After forking and cloning your repository, run this **one time** to add the upstream remote:
 
 ```bash
-git remote add upstream https://github.com/ChapmanMSBA/bus675_s26.git
+git remote add upstream https://github.com/dylanwalker/bus675_s26.git
 ```
 
 ### Getting New Material
